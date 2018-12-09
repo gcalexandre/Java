@@ -23,6 +23,7 @@ public class CalendarObject {
 		
 		d = cal.getTime();
 		System.out.println(sdf.format(d));
+
 		System.out.println("Minutes: " + minutes);
 		System.out.println("Month: " + month);
 
