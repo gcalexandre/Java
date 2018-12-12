@@ -4,7 +4,11 @@ public class Account {
 	
 	private int number;
 	private String holder;
-	private double balance;
+	protected double balance;
+	
+	public Account() {
+	}
+	
 	
 	
 	public Account(int number, String holder) {

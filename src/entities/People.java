@@ -6,7 +6,6 @@ public class People {
 	private String email;
 
 	public People(String name, String email) {
-		super();
 		this.name = name;
 		this.email = email;
 	}
