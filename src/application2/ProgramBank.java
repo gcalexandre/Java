@@ -1,8 +1,8 @@
-package application;
+package application2;
 
-import entities.Account;
-import entities.BusinessAccount;
-import entities.SavingsAccount;
+import entities2.Account;
+import entities2.BusinessAccount;
+import entities2.SavingsAccount;
 
 public class ProgramBank {
 

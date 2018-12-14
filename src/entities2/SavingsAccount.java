@@ -1,4 +1,4 @@
-package entities;
+package entities2;
 
 public final class SavingsAccount extends Account {
 
